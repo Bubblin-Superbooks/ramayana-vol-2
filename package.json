@@ -1,5 +1,5 @@
 {
-  "name": "ramayana-vol-1",
+  "name": "ramayana-vol-3",
   "version": "0.0.8",
   "description": "Superbook Ramayana by Valmiki",
   "keywords": [
@@ -11,7 +11,7 @@
   "homepage": "https://bubblin.io/valmiki",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marvindanig/ramayana-vol-1"
+    "url": "https://github.com/marvindanig/ramayana-vol-3"
   },
   "scripts": {
     "postinstall": "node ./crust/scripts/ready.js"
