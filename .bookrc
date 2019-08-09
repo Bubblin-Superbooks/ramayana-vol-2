@@ -1,0 +1,22 @@
+{
+  "name": "Ramayana Vol 2 ",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "The Rávan's Journey.",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/ramayana-vol-2/master/assets",
+  "book_id": 972,
+  "book_url": "https://bubblin.io/book/ramayana-vol-2-by-valmiki"
+}
